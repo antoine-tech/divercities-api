@@ -1,8 +1,10 @@
 # divercities-api
+
 API allowing GET calls to the SCM MongoDb database
 
 ## Présentation
-Donner à voir le port du futur
+
+Donner à voir le port du futur :
 
 Le French Smart Port in Med affirme la vocation portuaire et numérique de la Métropole Aix-Marseille-Provence en organisant un concours centré sur la DataVisualisation. Les acteurs économiques et institutionnels souhaitent mobiliser des étudiants pour participer au premier Hackaviz Smart Port du territoire.
 
@@ -10,7 +12,7 @@ Les partenaires de la démarche Smart Port Data inviteront les candidats à rele
 
 Ils pourront découvrir les environnements logistique et énergétique liés au Grand Port Maritime de Marseille et au territoire de la Métropole, à travers l’exploitation de jeux de données variés et l’implication de partenaires de premier rang (MGI, l'Union Maritime et Fluviale Marseille Fos,Traxens, Métropole Aix-Marseille-Provence, GPMM, CCIMP, AMU, RTE, GRT Gaz, Enedis, AtmoSud…).
 
-La doucumentation de l'api est disponible sur <>
+La documentation de l'api est disponible sur <https://documenter.getpostman.com/view/13953520/TWDWHwoV>
 
 ## Quick Start
 
